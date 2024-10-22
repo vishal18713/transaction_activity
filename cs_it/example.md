@@ -1,2 +1,2 @@
-Roll_no:xxxxxxx
-Tx_hash:xxxxxxx
+Roll_no:xxxxxxx <br>
+Tx_hash:xxxxxxx <br>
